@@ -16,4 +16,4 @@ Support users and external partners to resolve technical issues.
 INNOVATION DESIGN CENTER, GVSU | Front Office Assistant
 April 2024 - Present | Grand Rapids, Michigan
 
-[My Favorite Meme](https://media.licdn.com/dms/image/v2/C4E12AQE478uocz-1pg/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1520427370250?e=1731542400&v=beta&t=wJtqWFPAu0NjC3yuttsxC1_HZEW9-pgBO5YxuZzSRPA)
+![My Favorite Meme](https://media.licdn.com/dms/image/v2/C4E12AQE478uocz-1pg/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1520427370250?e=1731542400&v=beta&t=wJtqWFPAu0NjC3yuttsxC1_HZEW9-pgBO5YxuZzSRPA)
