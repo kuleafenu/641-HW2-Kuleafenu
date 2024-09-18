@@ -11,7 +11,6 @@
 Builds online systems and improves existing capacities to enhance user experiences.  
 Supports users and external partners to resolve technical issues.
 
-<<<<<<< HEAD
 ### INNOVATION DESIGN CENTER, GVSU | Front Office Assistant
 **April 2024 - Present** | *Grand Rapids, Michigan*
 
@@ -35,6 +34,3 @@ My name is Joachim Kuleafenu.
 ## Contact
 
 My email is kuleafenujoachim@gmail.com
-=======
-![My Favorite Meme](https://media.licdn.com/dms/image/v2/C4E12AQE478uocz-1pg/article-inline_image-shrink_400_744/article-inline_image-shrink_400_744/0/1520427370250?e=1731542400&v=beta&t=wJtqWFPAu0NjC3yuttsxC1_HZEW9-pgBO5YxuZzSRPA)
->>>>>>> db0b4ced7b4db343f88d3f33707f128b60e658b7
