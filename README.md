@@ -1,14 +1,3 @@
-<html>
-<head>
-<style>
-    body {
-        background-color: #f0f0f0; 
-    }
-</style>
-</head>
-<body>
-</html>
-
 # JOACHIM KULEAFENU
 
 - I like going to the Gym 4 times a week.
